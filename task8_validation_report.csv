@@ -1,0 +1,2 @@
+original_rows,rows_after_transformation,clean_rows_retained,duplicate_rows_in_clean_data,duplicate_order_ids,negative_delivery_durations,missing_expected_columns
+1010,1000,1000,0,0,0,"['Platform_Net_Revenue', 'Order_Date', 'Order_Hour']"
